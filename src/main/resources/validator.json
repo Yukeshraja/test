@@ -1,0 +1,45 @@
+[
+	{
+		"id": 1,
+		"title": "SAMPLE APPLICATION",
+		"description": "It is a Sample Demo Application",
+		"tags": [
+			"JAVA",
+			"SPRING"
+		],
+		"vote": 1,
+		"createdBy": "ssa3410@altimetrik.com",
+		"createdDate": "01-12-2018",
+		"updatedBy": null,
+		"updatedDate": null
+	},
+	{
+		"id": 2,
+		"title": "secod APPLICATION",
+		"description": "It is a Sample Demo Application",
+		"tags": [
+			"JAVA",
+			"SPRING"
+		],
+		"vote": 2,
+		"createdDate": "01-12-2018",
+		"createdBy": "ssa3410@altimetrik.com",
+		"updatedDate": null,
+		"updatedBy": null
+	},
+	{
+		"id": 3,
+		"title": "secod APPLICATION",
+		"description": "It is a Sample Demo Application",
+		"tags": [
+			"JAVA",
+			"SPRING"
+		],
+		"vote": 0,
+		"createdDate": "01-12-2018",
+		"createdBy": "ssa3410@altimetrik.com",
+		"updatedDate": null,
+		"updatedBy": null
+	}
+]
+	

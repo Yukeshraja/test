@@ -1,0 +1,28 @@
+# Spring properties
+spring:
+  application:
+     name: article  # Service registers under this name
+  freemarker:
+    enabled: false           # Ignore Eureka dashboard FreeMarker templates
+
+
+
+# HTTP Server
+server:
+  port: 1099  # HTTP (Tomcat) port
+  servlet.contextPath: /v1
+  undertow: 
+    accesslog: 
+      enabled: true
+
+# Logging configurations
+logging:
+  level:
+    root: INFO
+    com.memorynotfound: DEBUG
+    org.springframework.web: INFO
+    org.springframework.security: INFO
+    org.hibernate.SQL: WARN
+
+article:
+     fileName : validator.json
