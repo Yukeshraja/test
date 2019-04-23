@@ -1,1 +1,1 @@
-This is used to test the github webhook
+This is used to test the github webhook.
